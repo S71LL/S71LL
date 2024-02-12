@@ -3,7 +3,7 @@
 ---
 ### Мои последние проекты:
 * [Сайт для публикации постов](https://github.com/S71LL/hw05_final)
-* [API для сайта с постами](https://github.com/S71LL/hw05_final)
+* [API для сайта с постами](https://github.com/S71LL/api_final_yatube)
 * [Сервис для публикации рецептов](https://github.com/S71LL/foodgram-project-react)
 * [API для сервиса с рецензиями](https://github.com/S71LL/api_yamdb)
 
